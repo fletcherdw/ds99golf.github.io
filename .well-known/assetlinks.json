@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "dsgolf",
+    "package_name": "namer_app",
     "sha256_cert_fingerprints":
     ["15:D8:41:D1:97:24:a8:6A:46:71:60:8C:9E:8C:0F:EE:86:E5:3B:63:2E:27:E5:E0:97:22:82:C8:32:4E:27:E5"]
   }
