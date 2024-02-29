@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.deeplink_cookbook",
+    "package_name": "go_router_deeplinks_example",
     "sha256_cert_fingerprints":
     ["A3:F1:2C:53:C1:BD:EA:BE:11:01:67:8F:47:5E:DD:32:4A:35:B7:2E:6C:4A:FF:C7:43:CA:55:82:FD:37:65:2C"]
   }
