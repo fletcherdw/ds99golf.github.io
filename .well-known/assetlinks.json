@@ -2,6 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { 
     "namespace": "android_app", 
-    "package_name": "com.example.dsrotgolf",
-    "sha256_cert_fingerprints": ["8A:6C:26:B0:77:39:61:B4:7F:D1:DB:77:9D:F0:0E:FE:75:10:F0:FD:68:BE:AD:E6:C7:BB:5E:E9:E2:FD:6B:54"] }
+    "package_name": "org.dsrotgolf.dsrotgolf2",
+    "sha256_cert_fingerprints":
+        ["BA:3D:27:99:C1:E5:6B:A1:7A:7F:65:4C:04:C8:E4:68:DC:18:21:A1:2D:7C:F1:3E:C7:5B:C1:D9:10:C9:0C:C3"]
 }]
