@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "org.ds99golf.ds99golf",
       "sha256_cert_fingerprints":
-        [ "E1:F0:63:8F:C4:BD:A5:77:21:72:1B:C0:44:6F:B9:82:22:DC:8B:A6:3A:5A:99:94:AC:F1:B4:46:3D:F3:42:D7" ]
+        [ "30:84:05:22:B7:83:D3:E3:73:31:F2:07:15:EC:ED:5C:52:86:4D:97:F3:9E:A8:C5:10:38:E7:41:48:F3:D0:A0",
+          "E1:F0:63:8F:C4:BD:A5:77:21:72:1B:C0:44:6F:B9:82:22:DC:8B:A6:3A:5A:99:94:AC:F1:B4:46:3D:F3:42:D7" ]
     }
   }
 ]
