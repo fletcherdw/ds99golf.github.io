@@ -6,12 +6,9 @@
         "appIDs": [
           "9238Y3Q3P8.org.ds99golf.ds99golf"
         ],
-        "paths": [
-          "*"
-        ],
         "components": [
           {
-            "/": "/*"
+            "/": "/sheet/*"
           }
         ]
       }
